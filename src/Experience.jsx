@@ -419,7 +419,7 @@ export default function Experience() {
                       }}
                     >
                       <a
-                        href="mailto:hasan@example.com"
+                        href="mailto:contact.h.antakly@gmail.com"
                         style={{
                           display: "inline-flex",
                           alignItems: "center",
@@ -443,7 +443,7 @@ export default function Experience() {
                         <span>✉️</span> Email Me
                       </a>
 
-                      <a
+                      {/* <a
                         href="https://linkedin.com/in/hasan-antakly"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -470,7 +470,7 @@ export default function Experience() {
                         }}
                       >
                         <span>🔗</span> LinkedIn
-                      </a>
+                      </a> */}
                     </div>
                   </section>
                 </div>
